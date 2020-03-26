@@ -1,0 +1,4 @@
+[cfg]
+hydraHttpPort = "3000"
+hydraAdminURL = "http://127.0.0.1:4445"
+skipSSLCheck = true

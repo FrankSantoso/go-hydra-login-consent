@@ -1,0 +1,8 @@
+[hydraConf]
+port = 8888
+admin = "http://127.0.0.1:4445"
+skipSSL = true
+[csrfConf]
+key = "secretsauce"
+[templateDir]
+path = "../../../assets/templates/"
