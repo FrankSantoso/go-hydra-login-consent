@@ -1,0 +1,8 @@
+[hydraConf]
+port = 8988
+admin = "http://127.0.0.1:4445"
+skipSSL = true
+[csrfConf]
+key = "tu9Lp9faxFXJUAsrKo9LDj4yQ5n60nL2"
+[templateDir]
+path = "./assets/templates/"
